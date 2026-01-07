@@ -1,0 +1,5 @@
+{
+  "name": "EduConnect - Unified Tutor Booking Platform",
+  "description": "A comprehensive tutoring management system featuring distinct dashboards for students, teachers, and administrators. It includes advanced teacher searching with filters, session booking, attendance tracking, and schedule management.",
+  "requestFramePermissions": []
+}
